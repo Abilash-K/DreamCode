@@ -13,12 +13,68 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "SQL/Notes/DBMS Languages.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "DBMS Languages"
+            }
+          },
+          {
+            "id": "4096b32bda451875",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "SQL/Notes/Operators Example.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Operators Example"
+            }
+          },
+          {
+            "id": "3d31a48aef6ef3cb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "SQL/Notes/Aggregate Functions.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Aggregate Functions"
+            }
+          },
+          {
+            "id": "6250f8be9e1f71b6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "SQL/LeetCode/December 13 2024 - Day 1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
               "title": "December 13 2024 - Day 1"
+            }
+          },
+          {
+            "id": "7c4b724be5ef084c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "SQL/LeetCode/December 18 2024 - Day 3.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "December 18 2024 - Day 3"
             }
           },
           {
@@ -64,7 +120,8 @@
               "title": "Understanding DB's"
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -205,21 +262,26 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "fe0c2896ff7d1cbc",
+  "active": "7c4b724be5ef084c",
   "lastOpenFiles": [
+    "SQL/LeetCode/December 16 2024 - Day 2.md",
+    "SQL/LeetCode/December 18 2024 - Day 3.md",
+    "SQL/LeetCode/December 13 2024 - Day 1.md",
+    "SQL/Notes/Joins.md",
+    "Untitled.md",
+    "SQL/Notes/Operators Example.md",
+    "SQL/Notes/Aggregate Functions.md",
+    "SQL/Notes/SQL Data Types & Operators.md",
+    "SQL/Notes/Understanding DB's.md",
+    "SQL/Notes/DBMS Languages.md",
+    "SQL/Notes/Rules for writing SQL Query.md",
+    "SQL/Resources/DBMS Languages Graph.png",
     "SystemDesign",
     "LeetCode",
-    "SQL/Notes/Rules for writing SQL Query.md",
-    "SQL/LeetCode/December 13 2024 - Day 1.md",
     "SQL/LeetCode",
     "SQL/Notes",
-    "SQL/Notes/SQL Data Types & Operators.md",
     "Untitled 1.md",
-    "Untitled.md",
     "SQL/Resources",
-    "SQL/Notes/DBMS Languages.md",
-    "SQL/Resources/DBMS Languages Graph.png",
-    "SQL/Notes/Understanding DB's.md",
     "SQL",
     "Welcome.md",
     "create a link.md"
